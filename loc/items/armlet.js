@@ -21,7 +21,8 @@ export default [
       bg: 'Евтина кожена лента, купена от амбициозен фермер.',
       cs: 'Levné kožené kapely koupil ambiciózní farmář.',
       ja: '野心的な農民によって買われた安い革バンド。',
-      ro: 'Curea de piele ieftină cumpărată de un fermier ambițios.'
+      ro: 'Curea de piele ieftină cumpărată de un fermier ambițios.',
+      zh: '农民买的便宜的皮革。'
 
     }
   },
@@ -48,7 +49,8 @@ export default [
       el: 'Τα καλά χέρια έκαναν μια περίπλοκη δουλειά στο να φτιάξουν αυτή τη σπιτική μανσέτα',
       bg: 'Умели ръце направиха сложна работа, за да направят този домашен маншет.',
       ja: '熟練した手はこの自家製の袖口を作ることにおいて複雑な仕事をしました。',
-      ro: 'Niște mâini pricepute au făcut o muncă complicată în ceea ce privește această manșetă de casă'
+      ro: 'Niște mâini pricepute au făcut o muncă complicată în ceea ce privește această manșetă de casă',
+      zh: '熟练的手做了一个自制的袖口。'
     }
   },
 
@@ -74,7 +76,8 @@ export default [
       el: 'Σκληρό κάνει το χέρι σας πληγή.',
       bg: 'Скръбта прави ръката ви възпалена.',
       ja: '硬直すると腕が痛くなります。',
-      ro: 'Rigid, îți inflamează brațul.'
+      ro: 'Rigid, îți inflamează brațul.',
+      zh: '僵硬,让呢地手臂疼。'
     }
   },
 
@@ -100,7 +103,8 @@ export default [
       el: 'Κομψή μανσέτα από τα χέρια του τελευταίου μαμούθ',
       bg: 'Елегантен маншет, направен от бивните на последния мамут.',
       ja: '最後のマンモスの牙から作られたエレガントなカフ。',
-      ro: 'Manșetă elegantă realizată din colții ultimului mamut.'
+      ro: 'Manșetă elegantă realizată din colții ultimului mamut.',
+      zh: '从最后的长毛象做的袖口。'
     }
   },
 
@@ -126,7 +130,8 @@ export default [
       hi: 'अपने हाथ पर भारी ... लायक संरक्षण।',
       cs: 'Těžká na paži ... stojí za to.',
       ja: 'あなたの腕に重い...保護に値する。',
-      ro: 'Grea pe braț... merită protecția.'
+      ro: 'Grea pe braț... merită protecția.',
+      zh: '很重。。。但是值得保护。'
     }
   },
 
@@ -152,8 +157,8 @@ export default [
       el: 'Ελαφριές μεταλλικές λαβές εύχρηστες για νυχτερινές επιδρομές',
       bg: 'Тъпа метална четка, удобна за нощно нападение.',
       ja: '夜間の襲撃に便利な鈍い金属製の装具。',
-      ro: 'Manșetă anostă din metal, la îndemână pentru raidurile pe timp de noapte.'
-
+      ro: 'Manșetă anostă din metal, la îndemână pentru raidurile pe timp de noapte.',
+      zh: '平淡和铁的袖口，会帮助夜晚里的攻击。'
     }
   },
 
@@ -179,7 +184,8 @@ export default [
       el: 'Κολλημένος κηδεμόνας κάνει το χέρι σου να μοιάζει με εκείνο ενός δράκου',
       bg: 'Мащабирането на ръката ви прилича на тази на дракон.',
       ja: '縮れたブレースはあなたの腕をドラゴンのそれに似せます。',
-      ro: 'Manșetă acoperită cu solzi, îți face brațul să semene cu al unui dragon.'
+      ro: 'Manșetă acoperită cu solzi, îți face brațul să semene cu al unui dragon.',
+      zh: '有鳞的护腕，让你的手看着像龙的手。“
     }
   },
 
@@ -205,7 +211,8 @@ export default [
       el: 'Τυφλώνει τους εχθρούς σου με μια μαγική λάμψη από έναν κακό καθρέφτη μάγων ...',
       bg: 'Заслепява враговете си с магически блясък, отблъскващ отвратителен магьосник ...',
       ja: '馬鹿げた魔術師の鏡からあなたの敵を魔法のように輝かせて盲目にします...',
-      ro: 'Orbește adversarii cu o strălucire magică a unei oglinzi deviante a magicienilor.'
+      ro: 'Orbește adversarii cu o strălucire magică a unei oglinzi deviante a magicienilor.',
+      zh: '用这个魔术师的经济来盲目你的敌人。。。'
     }
   },
 
@@ -231,7 +238,8 @@ export default [
       el: 'Οι αρχαίοι κηδεμόνες άφησαν υπολείμματα του πέρασματός τους τα οποία εσείς ασυνείδητα έχετε αποφασίσει να φορέσετε στο χέρι σας',
       bg: 'Архаичните настойници са оставили остатъци от минаването си, които безскрупулно сте решили да носите на ръката си.',
       ja: '古風な守護者たちは、あなたが不注意にあなたの腕に身に着けることに決めた彼らの通過の残骸を残しました。',
-      ro: 'Gardienii arhaici au lăsat rămășițe în urma lor, pe care ați decis să le purtați fără scrupule.'
+      ro: 'Gardienii arhaici au lăsat rămășițe în urma lor, pe care ați decis să le purtați fără scrupule.',
+      zh: '古老的卫士留下了他们的部分，你无耻地决定呆在你的手臂上。'
     }
   },
 
@@ -257,7 +265,8 @@ export default [
       el: 'Ο απατηλά ελαφρύς χάλυβας προσφέρει προστασία ψύξης ενάντια στα κρυφά χτυπήματα',
       bg: 'Измамно леката стомана предлага охлаждаща защита срещу подъл удар.',
       ja: '一見軽い鋼は卑劣な打撃に対する低温保護を提供します。',
-      ro: 'Oțelul înșelător de ușor oferă protecție revigorantă împotriva loviturilor viclene.'
+      ro: 'Oțelul înșelător de ușor oferă protecție revigorantă împotriva loviturilor viclene.',
+      zh: '看似轻巧的铁会保护你受偷偷摸摸的攻击'
     }
   },
 
@@ -283,7 +292,8 @@ export default [
       el: 'Τα αστέρια δεν είναι συχνά μαύρα αλλά το κομμάτι αυτό έχει ... βαθύ σκοτάδι.',
       bg: 'Звездите често не са черни, но този фрагмент има ... дълбока ... дълбока тъмнина.',
       ja: '多くの場合、星は黒ではありませんが、この断片は...濃い...濃い暗さを持っています。',
-      ro: 'Stelele nu sunt deseori negre, totuși acest fragment are o... adâncă... adâncă întunecime.'
+      ro: 'Stelele nu sunt deseori negre, totuși acest fragment are o... adâncă... adâncă întunecime.',
+      zh: '星星不老实黑的，可是这片有一种。。。深。。。深的黑暗'
     }
   },
 
@@ -309,7 +319,8 @@ export default [
       bg: 'Открадната загуба, намерена открадната за епохи без край.',
       ja: '失われた遺失物は、終わりのない時代に隠されて盗まれました。',
       sv: 'Smidda, förlorade, hittade, stol, gömd för eroder utan slut.',
-      ro: 'Refăurite, pierdute, găsite, furate, ascunse pentru ere fără sfârșit.'
+      ro: 'Refăurite, pierdute, găsite, furate, ascunse pentru ere fără sfârșit.',
+      zh: '重铸，丢过，发现，被盗，和藏了万千时代'
     }
   },
 
@@ -335,7 +346,8 @@ export default [
       ja: 'このアイテムは、暗闇のささやきの中で不思議な呪文が聞かれたときに満月に作られました。アヌビス自身が死者と話していたと言う人もいます。',
       el: 'Αυτό το στοιχείο ήταν σφυρηλατημένο σε πανσέληνο όταν ακούστηκαν μυστηριώδεις φωνές με τους ψίθυρους του σκοτάδι. Κάποιοι λένε ότι ο ίδιος ο Anubis μίλησε με τους νεκρούς.',
       bg: 'Този предмет беше изкован на пълнолуние, когато се чуваха тайнствени заклинания в шепота на тъмнината. Някои казват, че самият Анубис говори с мъртвите.',
-      ro: 'Acest obiect a fost făurit sub lună plină când incantații misterioase au fost auzite în șoaptele nopții. Câțiva oameni spun că a fost chiar Anubis vorbind cu morții.'
+      ro: 'Acest obiect a fost făurit sub lună plină când incantații misterioase au fost auzite în șoaptele nopții. Câțiva oameni spun că a fost chiar Anubis vorbind cu morții.',
+      zh: '这副护腕是在满月的夜晚锻造的，当黑暗里可以听到神秘的咒语。有些说是阿努比斯自己在跟私人说花。'
     }
   }
 
